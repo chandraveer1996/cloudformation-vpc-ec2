@@ -31,7 +31,7 @@ Resources:
         - CIDR
       Tags:
         - Key: Name
-          Value: ACloudGuru
+          Value: ITE-Bhopal
         - Key: Application
           Value: !Ref 'AWS::StackName'
         - Key: Network
